@@ -6,12 +6,12 @@
         "email": "pedrosalpr@gmail.com"
     }],
     "require": {
-        "php": ">=5.5"
+        "php": ">=5.5.0"
     },
     "autoload": {
         "psr-0": {
-            "Pedrosalpr\\Enum\\": "src",
-            "Pedrosalpr\\Enum\\Tests\\": "tests"
+            "Pedrosalpr\\Enum\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
