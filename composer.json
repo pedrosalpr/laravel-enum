@@ -1,0 +1,17 @@
+{
+    "name": "Laravel Enum",
+    "description": "Create Enum",
+    "authors": [{
+        "name": "Leandro Pedrosa Rodrigues",
+        "email": "pedrosalpr@gmail.com"
+    }],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "Pedrosalpr\\Enum\\": "src",
+            "Pedrosalpr\\Enum\\Tests\\": "tests"
+        }
+    }
+}

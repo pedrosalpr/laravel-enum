@@ -1,0 +1,14 @@
+<?php
+
+namespace App\Enums;
+
+use Pedrosalpr\Enum\Enum;
+
+/**
+ * @method static DummyClass ENUM()
+ */
+class DummyClass extends Enum {
+
+    const ENUM = 'enum';
+
+}
