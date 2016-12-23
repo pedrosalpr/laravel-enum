@@ -1,10 +1,11 @@
 {
-    "name": "Laravel Enum",
-    "description": "Create Enum",
+    "name": "pedrosalpr/laravel-enum",
+    "description": "Create class Enum Laravel",
     "authors": [{
-        "name": "Leandro Pedrosa Rodrigues",
+        "name": "Leandro Pedrosa",
         "email": "pedrosalpr@gmail.com"
     }],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.0"
     },
@@ -12,6 +13,5 @@
         "psr-0": {
             "Pedrosalpr\\Enum\\": "src"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
